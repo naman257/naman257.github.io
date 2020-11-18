@@ -1,0 +1,39 @@
+#C1
+{
+    font: 1em sans-serif;
+    font-size: 250%;
+    font-style: italic;
+    color: lightseagreen;
+    text-align: center;
+    margin-top: 10mm;
+    text-decoration: underline;
+    text-indent: -40px;
+}
+body
+{
+    background-color: #6d6361;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 5px;
+    text-align: left;
+  }
+  div.a1,div.a2,div.a3,div.a4,div.a5,div.a6,div.a7,div.a8,div.a9,div.a10,div.a11
+  {
+      margin-top: 10mm;
+      
+    
+  }
+  .myButton {
+    
+    padding: 2px;
+    display:block;
+    float:left;
+    background-color:#6d6361;
+    color: lightseagreen;
+    text-align:justify;
+    
+}
